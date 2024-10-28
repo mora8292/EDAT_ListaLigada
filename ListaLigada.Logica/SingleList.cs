@@ -31,6 +31,7 @@ namespace ListaLigada.Logica
             }
         }
 
+        //public bool 
         public override string ToString()
         {
             var cadenaLista =string.Empty;
